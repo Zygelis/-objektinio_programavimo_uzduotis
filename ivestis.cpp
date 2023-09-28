@@ -6,7 +6,7 @@ studentas atsitiktinis_ivedimas()
     cout << "Iveskite varda ir pavarde:";
     cin >> laikinas.vardas >> laikinas.pavarde;
 
-    cout << "Kiek pazymiu norite sugeneruoti? ";
+    cbelekeie AKAKAKAKAKAKAKAK
     int kiek_pazymiu;
     cin >> kiek_pazymiu;
 
